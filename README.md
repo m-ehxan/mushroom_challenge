@@ -1,4 +1,4 @@
-Mashroom Classifier
+Mushroom Classifier
 ===================================
 
 Mashroom classifer is flask based web application that is powered by machine learning model. The model is trained on [Kagel](https://www.kaggle.com/uciml/mushroom-classification) dataset with set of features and lebles for mushroom eatibility e.g. edible "e" and poisnous "p". 
