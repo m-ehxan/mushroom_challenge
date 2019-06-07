@@ -18,7 +18,7 @@ Mashroom classifer is flask based web application that is powered by machine lea
 * After running "app.py" wep app can be accessed at http://127.0.0.1:5000
 
 ## Dependencies
-* All the python dependencies are listed in "requirement.txt" file and are as following:
+* All the python(3.6) and third dependencies are listed in "requirement.txt" file and are as following:
 
 	-	Click==7.0
 	-	cycler==0.10.0
